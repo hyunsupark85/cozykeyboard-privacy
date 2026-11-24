@@ -33,3 +33,5 @@ CozyKeyboard is not directed at children under 13.
 ## Contact
 
 Questions: hyunsupark85@gmail.com
+
+[한국어](ko)
