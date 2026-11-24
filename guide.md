@@ -22,6 +22,13 @@ CozyKeyboard is a Korean/English keyboard for iPhone that translates what you ty
 - **Close the keyboard:** swipe down on the translation bar.
 - **Move the cursor:** hold space and drag.
 
+## Languages
+
+- **Keys you type with:** Korean (Hangul) and English.
+- **Translation, in either direction between any two of:** Korean, English, Japanese, Chinese (Simplified), Spanish, French, German, Italian, Portuguese (Brazil).
+
+For example, type in Korean and send in Japanese, or copy a French message and read it in Korean.
+
 ## Good to know
 
 - Automatic translation is off in fields for email addresses, numbers, codes, and logins.
