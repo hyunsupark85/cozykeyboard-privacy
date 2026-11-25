@@ -1,6 +1,6 @@
 # CozyKeyboard Privacy Policy
 
-Last updated: November 24, 2026
+Last updated: November 26, 2026
 
 ## The short version
 
@@ -13,6 +13,12 @@ When you translate with an AI engine you connected (for example Claude, ChatGPT,
 Nothing is sent when you use Apple AI or offline translation. Those run on your iPhone.
 
 Text is sent only for translation: when you pause typing in an ordinary text field, when you tap the translate button, or when you tap the clipboard button to translate copied text. Automatic translation is off in fields for email addresses, web addresses, numbers, codes, logins, and other autofill details. iOS always uses Apple's keyboard for password fields.
+
+## Voice input
+
+When you tap the mic button, the CozyKeyboard app turns on the microphone and Apple's speech recognition turns what you say into text. Your speech is processed on your iPhone when Apple supports that for your language; otherwise Apple may process it on its servers under Apple's privacy policy. CozyKeyboard does not record or store your audio, and the developer never receives it.
+
+So that voice input starts right away the next time, the microphone stays on in the background for up to 1 hour after you last used it. During that time the sound is discarded unless you are dictating. iOS shows an orange dot while the microphone is on. To turn it off sooner, close the CozyKeyboard app.
 
 ## What stays on your iPhone
 
