@@ -18,7 +18,8 @@ CozyKeyboard is a Korean/English keyboard for iPhone that translates what you ty
 - **Read a message:** copy it, then tap the clipboard button to read it in your language.
 - **Engine and model:** tap the engine chip to switch between your connected engines and their models.
 - **Switch the keys:** tap 🌐 to go between the two languages on the chips (for example Korean and English, or Korean and Spanish). If you keep other keyboards turned on, hold 🌐 to switch to the next one.
-- **Accents:** on the Spanish, French, German, Italian, and Portuguese keys, hold a letter (for example n or e) and tap the accented letter. Japanese and Chinese use the English keys.
+- **Accents:** on the Spanish, French, German, Italian, and Portuguese keys, hold a letter (for example n or e) and tap the accented letter. Each language uses its own layout (Spanish ñ, French AZERTY, German QWERTZ, Portuguese ç).
+- **Japanese:** type in romaji and it turns into hiragana (konnichiha → こんにちは). There is no kanji conversion. Chinese typing is not supported and uses the English keys.
 - **Hide the translation bar:** hold 123. Hold it again to bring the bar back.
 - **Emoji:** tap 😀.
 - **Close the keyboard:** swipe down quickly on the keys or the translation bar.
