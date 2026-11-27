@@ -20,7 +20,7 @@ CozyKeyboard is a Korean/English keyboard for iPhone that translates what you ty
 - **Korean / English keys:** tap 🌐. Hold 🌐 to hide or show the translation bar.
 - **Emoji:** tap 😀. If you have other keyboards turned on, hold 😀 to switch to the next one.
 - **Close the keyboard:** swipe down quickly on the keys or the translation bar.
-- **Voice input:** tap the mic next to the replace button and speak. The first time, the CozyKeyboard app opens to turn the microphone on; go back to your app and tap the mic again. Tap Stop to finish. It listens in Korean on the Korean keys and in English on the English keys.
+- **Voice input:** tap 🎤 below the keyboard (iOS dictation). If it is missing, turn on Enable Dictation in Settings > General > Keyboard. It listens in Korean on the Korean keys and in English on the English keys.
 - **Move the cursor:** hold space and drag.
 
 ## Languages
